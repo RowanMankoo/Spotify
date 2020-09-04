@@ -1,7 +1,7 @@
 # Spotify
 
 The data set worked with in this group project has been obtained by merging data collected from Spotify and the Official Charts
-Company (which keeps records of the “charts”, lists of the best selling albums, in the UK).There has been 35 albums selected from each decade from the 1960s to the 2010s. From
+Company (which keeps records of the “charts”, lists of the best selling albums, in the UK). There has been 35 albums selected from each decade from the 1960s to the 2010s. From
 Spotify, we obtained: the album’s release date and a measure of its popularity; the artist that recorded the album,
 a description of the genres of music associated with that artist, and a measure of the artist’s popularity; a number
 of descriptive variables relating to each track. From the Official
