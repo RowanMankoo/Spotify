@@ -8,6 +8,8 @@ of descriptive variables relating to each track. From the Official
 Charts Company, we obtained the maximum chart position of each album (if it reached the top 100 albums), the
 number of weeks the album was in the top 100, and the number of weeks the album was at the top of the charts.
 
+We set out this project with two main goals:
+
 1. To predict what type of music will be popular, in order to help the company invest in artists that will help
 them make a profit.
 2. To produce a system for recommending new music based on the tastes of a listener.
